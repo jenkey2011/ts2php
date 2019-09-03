@@ -602,4 +602,4 @@ Based on [Typescript](https://github.com/Microsoft/TypeScript) compiler
 [options]: https://max-team.github.io/ts2php/interfaces/ts2phpoptions.html
 
 
----- test ---- 
+---- test2 ---- 
